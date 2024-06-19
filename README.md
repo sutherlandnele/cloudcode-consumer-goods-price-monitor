@@ -4,7 +4,7 @@
 
 ### Access Web App
 
-To access the app, go to the test site at [<u>http://cgpmtest.cloudcode.com.pg</u>](http://cgpmtest.cloudcode.com.pg/) and click on the “Consumer Resources & Tools” link.
+To access the app, go to the test site at [<u>https://cgpmtest.cloudcode.com.pg</u>](https://cgpmtest.cloudcode.com.pg/) and click on the “Consumer Resources & Tools” link.
 
 
 <img src="README/aay4mobo.png" style="width:6.26694in;height:3.06458in" />
