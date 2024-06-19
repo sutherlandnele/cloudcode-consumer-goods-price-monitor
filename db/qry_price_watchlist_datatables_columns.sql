@@ -1,0 +1,12 @@
+'ictr_shop_product.id', 
+'ictr_product.name', 
+'ictr_product.id', 
+'ictr_product.image',
+'ictr_product_category.name',
+'ictr_shop.name', 
+'ictr_shop.id', 
+'ictr_city.name',
+'ictr_region.name',
+'concat("K",format(ictr_shop_product.current_price,2))', 
+'concat("K",format(ictr_shop_product.discount_price,2))',
+'date_format(ictr_shop_product.price_date,"%d/%m/%Y")'
